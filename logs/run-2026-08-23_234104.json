@@ -1,0 +1,47 @@
+[
+  {
+    "job": {
+      "scrapedAt": "2026-08-12T14:04:03.993Z",
+      "source": "linkedin",
+      "company": "Multiplier AI",
+      "jobTitle": "Full Stack Developer Intern",
+      "location": "Noida, Uttar Pradesh, India",
+      "postedDate": "2026-08-10T18:30:00.000Z",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-multiplier-ai-4447525184",
+      "matchedBatchTerms": ""
+    },
+    "status": "skipped",
+    "reason": "No Easy Apply button (external application)",
+    "screenshot": null
+  },
+  {
+    "job": {
+      "scrapedAt": "2026-08-12T14:21:12.250Z",
+      "source": "linkedin",
+      "company": "Faveo",
+      "jobTitle": "Golang developer Internship",
+      "location": "Virajpet, Karnataka, India",
+      "postedDate": "2026-07-12T18:30:00.000Z",
+      "url": "https://in.linkedin.com/jobs/view/golang-developer-internship-at-faveo-4450078538",
+      "matchedBatchTerms": ""
+    },
+    "status": "skipped",
+    "reason": "No Easy Apply button (external application)",
+    "screenshot": null
+  },
+  {
+    "job": {
+      "scrapedAt": "2026-08-12T14:21:12.305Z",
+      "source": "linkedin",
+      "company": "Faveo",
+      "jobTitle": "Golang developer Internship",
+      "location": "Dharmapuri, Telangana, India",
+      "postedDate": "2026-07-12T18:30:00.000Z",
+      "url": "https://in.linkedin.com/jobs/view/golang-developer-internship-at-faveo-4450079512",
+      "matchedBatchTerms": ""
+    },
+    "status": "skipped",
+    "reason": "No Easy Apply button (external application)",
+    "screenshot": null
+  }
+]

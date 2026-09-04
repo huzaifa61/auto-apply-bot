@@ -1,0 +1,17 @@
+[
+  {
+    "job": {
+      "scrapedAt": "2026-08-21T06:49:18.397Z",
+      "source": "linkedin",
+      "company": "Persistent",
+      "jobTitle": "SDE",
+      "location": "Pune District, Maharashtra, India",
+      "postedDate": "2026-08-23T18:30:00.000Z",
+      "url": "https://www.linkedin.com/jobs/view/4448737169/",
+      "matchedBatchTerms": ""
+    },
+    "status": "skipped",
+    "reason": "Skipped: unable to handle required field",
+    "screenshot": "/Users/saadshaikh/Downloads/linkedin-apply-bot/logs/flag_persistent-sde_1787580526.png"
+  }
+]
