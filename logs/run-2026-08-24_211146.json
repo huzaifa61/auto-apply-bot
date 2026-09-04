@@ -1,0 +1,17 @@
+[
+  {
+    "job": {
+      "scrapedAt": "",
+      "source": "linkedin",
+      "company": "Kesariya",
+      "jobTitle": "SDE",
+      "location": "Pune District, Maharashtra, India",
+      "postedDate": "2026-08-24T18:30:00.000Z",
+      "url": "https://www.linkedin.com/jobs/view/4455680363/",
+      "matchedBatchTerms": ""
+    },
+    "status": "skipped",
+    "reason": "Skipped: unable to handle required field",
+    "screenshot": "/Users/saadshaikh/Downloads/linkedin-apply-bot/logs/flag_kesariya-sde_1787586106.png"
+  }
+]

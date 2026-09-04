@@ -1,0 +1,32 @@
+[
+  {
+    "job": {
+      "scrapedAt": "2026-08-21T06:49:18.397Z",
+      "source": "linkedin",
+      "company": "Zepcruit",
+      "jobTitle": "SDE",
+      "location": "Pune District, Maharashtra, India",
+      "postedDate": "2026-08-21T18:30:00.000Z",
+      "url": "https://www.linkedin.com/jobs/view/4456707949/",
+      "matchedBatchTerms": ""
+    },
+    "status": "skipped",
+    "reason": "Dry run: would have submitted here",
+    "screenshot": null
+  },
+  {
+    "job": {
+      "scrapedAt": "2026-08-21T06:49:18.397Z",
+      "source": "linkedin",
+      "company": "SmartQ",
+      "jobTitle": "SDE",
+      "location": "Pune District, Maharashtra, India",
+      "postedDate": "2026-08-22T18:30:00.000Z",
+      "url": "https://www.linkedin.com/jobs/view/4451101656/",
+      "matchedBatchTerms": ""
+    },
+    "status": "skipped",
+    "reason": "Skipped: too many Easy Apply steps",
+    "screenshot": "/Users/saadshaikh/Downloads/linkedin-apply-bot/logs/flag_smartq-sde_1787516693.png"
+  }
+]

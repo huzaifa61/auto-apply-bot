@@ -1,0 +1,32 @@
+[
+  {
+    "job": {
+      "scrapedAt": "",
+      "source": "linkedin",
+      "company": "Heap Trace",
+      "jobTitle": "SDE",
+      "location": "Pune District, Maharashtra, India",
+      "postedDate": "2026-08-24T18:30:00.000Z",
+      "url": "https://www.linkedin.com/jobs/view/4452414757/",
+      "matchedBatchTerms": ""
+    },
+    "status": "skipped",
+    "reason": "Dry run: would have submitted here",
+    "screenshot": null
+  },
+  {
+    "job": {
+      "scrapedAt": "",
+      "source": "linkedin",
+      "company": "Persistane",
+      "jobTitle": "SDE",
+      "location": "Pune District, Maharashtra, India",
+      "postedDate": "2026-08-25T18:30:00.000Z",
+      "url": "https://www.linkedin.com/jobs/view/4448734822/",
+      "matchedBatchTerms": ""
+    },
+    "status": "skipped",
+    "reason": "Dry run: would have submitted here",
+    "screenshot": null
+  }
+]

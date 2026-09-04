@@ -1,0 +1,166 @@
+{
+  "_readme": "All application answer values live in this file. Python only discovers fields, matches question text, and applies the configured answer/choice. No job-question values are hardcoded in Python.",
+  "rules": [
+    {
+      "patterns": [
+        "how many years of total professional experience do you have",
+        "total professional experience"
+      ],
+      "answer": "0"
+    },
+    {
+      "patterns": [
+        "how many years of relevant experience do you have in full stack development",
+        "relevant experience do you have in full stack development",
+        "full stack development experience"
+      ],
+      "answer": "0"
+    },
+    {
+      "patterns": [
+        "what is your current annual ctc",
+        "current annual ctc",
+        "current ctc in lpa"
+      ],
+      "answer": "6"
+    },
+    {
+      "patterns": [
+        "what is your expected annual ctc",
+        "expected annual ctc",
+        "expected ctc in lpa"
+      ],
+      "answer": "6"
+    },
+    {
+      "patterns": [
+        "what is your current notice period, or how soon can you join",
+        "what is your current notice period",
+        "how soon can you join",
+        "notice period in number of days"
+      ],
+      "answer": "0"
+    },
+    {
+      "patterns": [
+        "are you currently in pune?",
+        "are you currently in pune",
+        "currently in pune",
+        "current location pune",
+        "in pune"
+      ],
+      "choice": "Yes"
+    },
+    {
+      "patterns": [
+        "years of work experience do you have",
+        "years of experience"
+      ],
+      "answer": "0"
+    },
+    {
+      "patterns": [
+        "notice period"
+      ],
+      "answer": "0"
+    },
+    {
+      "patterns": [
+        "work authorization",
+        "can you start immediately",
+        "start immediately",
+        "authorized to work",
+        "require sponsorship"
+      ],
+      "choice": "Yes"
+    },
+    {
+      "patterns": [
+        "basic knowledge of selenium webdriver with java",
+        "selenium webdriver with java"
+      ],
+      "choice": "Yes"
+    },
+    {
+      "patterns": [
+        "comfortable with a 3-month internship",
+        "3-month internship"
+      ],
+      "choice": "Yes"
+    },
+    {
+      "patterns": [
+        "comfortable working monday-saturday",
+        "comfortable working monday–saturday",
+        "monday-saturday",
+        "monday–saturday"
+      ],
+      "choice": "Yes"
+    },
+    {
+      "patterns": [
+        "comfortable working from thergaon",
+        "working from thergaon",
+        "thergaon, pune"
+      ],
+      "choice": "Yes"
+    },
+    {
+      "patterns": [
+        "are you willing to relocate",
+        "willing to relocate"
+      ],
+      "choice": "Yes"
+    },
+    {
+      "patterns": [
+        "expected salary",
+        "current salary",
+        "current ctc",
+        "expected ctc"
+      ],
+      "answer": "6"
+    },
+    {
+      "patterns": [
+        "mobile phone number",
+        "phone number",
+        "mobile number",
+        "phone",
+        "mobile"
+      ],
+      "answer": "8850502791"
+    },
+    {
+      "patterns": [
+        "linkedin profile",
+        "linkedin url"
+      ],
+      "answer": "https://www.linkedin.com/in/huzaifa-shaikh-b4164b430/"
+    },
+    {
+      "patterns": [
+        "graduation year",
+        "expected graduation"
+      ],
+      "answer": "2027"
+    },
+    {
+      "patterns": [
+        "are you at least 18"
+      ],
+      "choice": "Yes"
+    },{
+      "patterns": [
+        "name","first name"
+      ],
+      "choice": "Huzaifa Shaikh"
+    },
+    {
+      "patterns": [
+        "Location","city","(city)","(location)","(current location)","(current city)","(current location/city)","(current city/location)"
+      ],
+      "choice": "Pune"
+    }
+  ]
+}

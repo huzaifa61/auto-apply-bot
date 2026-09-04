@@ -1,0 +1,17 @@
+[
+  {
+    "job": {
+      "scrapedAt": "2026-08-21T06:49:18.397Z",
+      "source": "linkedin",
+      "company": "1xl",
+      "jobTitle": "Testing intern",
+      "location": "Pune District, Maharashtra, India",
+      "postedDate": "",
+      "url": "https://www.linkedin.com/jobs/view/4455024608/",
+      "matchedBatchTerms": ""
+    },
+    "status": "skipped",
+    "reason": "No Easy Apply button (external application)",
+    "screenshot": null
+  }
+]

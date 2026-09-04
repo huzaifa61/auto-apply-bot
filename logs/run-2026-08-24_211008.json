@@ -1,0 +1,32 @@
+[
+  {
+    "job": {
+      "scrapedAt": "2026-08-21T06:49:18.397Z",
+      "source": "linkedin",
+      "company": "Persistent",
+      "jobTitle": "SDE",
+      "location": "Pune District, Maharashtra, India",
+      "postedDate": "2026-08-23T18:30:00.000Z",
+      "url": "https://www.linkedin.com/jobs/view/4448737169/",
+      "matchedBatchTerms": ""
+    },
+    "status": "skipped",
+    "reason": "Dry run: would have submitted here",
+    "screenshot": null
+  },
+  {
+    "job": {
+      "scrapedAt": "",
+      "source": "linkedin",
+      "company": "Kesariya",
+      "jobTitle": "SDE",
+      "location": "Pune District, Maharashtra, India",
+      "postedDate": "2026-08-24T18:30:00.000Z",
+      "url": "https://www.linkedin.com/jobs/view/4455680363/",
+      "matchedBatchTerms": ""
+    },
+    "status": "skipped",
+    "reason": "Skipped: unable to handle required field",
+    "screenshot": "/Users/saadshaikh/Downloads/linkedin-apply-bot/logs/flag_kesariya-sde_1787586007.png"
+  }
+]
